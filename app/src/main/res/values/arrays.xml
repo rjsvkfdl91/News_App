@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sources">
+        <item>abc-news-au</item>
+        <item>bbc-news</item>
+        <item>bbc-sport</item>
+        <item>bloomberg</item>
+        <item>cnn</item>
+        <item>business-insider</item>
+        <item>espn</item>
+        <item>financial-times</item>
+        <item>fortune</item>
+        <item>fox-sports</item>
+        <item>google-news</item>
+        <item>national-geographic</item>
+        <item>new-york-magazine</item>
+        <item>the-new-york-times</item>
+        <item>usa-today</item>
+        <item>the-washington-post</item>
+        <item>the-sport-bible</item>
+        <item>the-wall-street-journal</item>
+        <item>the-huffington-post</item>
+        <item>the-next-web</item>
+        <item>the-guardian-uk</item>
+        <item>new-scientist</item>
+        <item>mtv-news</item>
+        <item>metro</item>
+        <item>fox-sports</item>
+        <item>entertainment-weekly</item>
+    </string-array>
+
+</resources>

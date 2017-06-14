@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="no_internet">No_Internet_Connection</string>
+    <string name="no_result">No_News_Result</string>
+    <string name="no_date">No_Date</string>
+    <string name="choose_source">Sources</string>
+    <string name="choose_and_search">Choose one source and enter a topic</string>
+    <string name="enter_topic">Enter Topic</string>
+
+    <string name="baseUrl"><![CDATA[https://newsapi.org/v1/articles]]> </string>
+    <string name="apiUrl">apiKey=1f1fcf6cf15640959e6f783d41f84ba5</string>
+</resources>
